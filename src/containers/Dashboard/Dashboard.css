@@ -1,0 +1,18 @@
+.Dashboard {
+    display: flex;
+    justify-content: center;
+}
+
+.BuilingLabel {
+    border: 2px solid #2196F3;
+}
+
+.Rooms {
+    border: 2px solid #2196F3;
+    padding: 6px 6px;
+}
+
+.Meetings {
+    border: 2px solid #2196F3;
+    padding: 6px 6px;
+}
